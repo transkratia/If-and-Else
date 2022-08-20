@@ -2,8 +2,8 @@
 # e obter a resposta "Parabéns, você acertou", caso a acerte. Entretanto, caso erre,
 # a resposta será "Errou feio! Errou rude!"
 
-gender = input("Qual é o gênero de Bridget? ")
+elemento = input("Qual é o elemento de Arthur? ")
 
-if gender == "Feminino":
+if elemento == "Sangue":
     print("Parabéns, você acertou!")
 else: print("Errou feio! Errou rude!")

@@ -2,5 +2,5 @@
 # e obter a resposta "Acesso concedido.", caso a acerte.
 
 password = input("Qual é a senha? ")
-if password == "el psy kongroo":
+if password == "Kian sabe":
     print("Acesso concedido.")
